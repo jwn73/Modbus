@@ -1,0 +1,10 @@
+C:\Users\johannes.wallin\source\repos\Modbus\Modbus\bin\Debug\Modbus.exe.config
+C:\Users\johannes.wallin\source\repos\Modbus\Modbus\bin\Debug\Modbus.exe
+C:\Users\johannes.wallin\source\repos\Modbus\Modbus\bin\Debug\Modbus.pdb
+C:\Users\johannes.wallin\source\repos\Modbus\Modbus\obj\Debug\Modbus.csprojResolveAssemblyReference.cache
+C:\Users\johannes.wallin\source\repos\Modbus\Modbus\obj\Debug\Modbus.Modbus.resources
+C:\Users\johannes.wallin\source\repos\Modbus\Modbus\obj\Debug\Modbus.Properties.Resources.resources
+C:\Users\johannes.wallin\source\repos\Modbus\Modbus\obj\Debug\Modbus.csproj.GenerateResource.Cache
+C:\Users\johannes.wallin\source\repos\Modbus\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\johannes.wallin\source\repos\Modbus\Modbus\obj\Debug\Modbus.exe
+C:\Users\johannes.wallin\source\repos\Modbus\Modbus\obj\Debug\Modbus.pdb
